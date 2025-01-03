@@ -76,7 +76,8 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse).
 
 ## Output:
-![Screenshot (17)](https://github.com/user-attachments/assets/f1675e58-6a12-4e72-aa96-be9823a2cb96)
+![image](https://github.com/user-attachments/assets/6cde7aa7-f132-40be-a773-4d0ae70a977b)
+
 
 
 
